@@ -4,11 +4,11 @@ The RSIF Accountability Demonstrator is a conceptual academic prototype that mod
 
 It provides an interactive AI Accountability Framework for exploring accountability metrics, governance structures, and transparency mechanisms in AI systems. The application features a high-performance, dynamic interface designed for professional AI portfolios and data-driven visualization.
 
-## 🚀 Live Demo
+##  Live Demo
 
 You can view the live project here: [https://rsif-accountability-demonstrator.vercel.app/](https://rsif-accountability-demonstrator.vercel.app/)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 This project is built using a modern, fast, and scalable web stack:
 
@@ -17,7 +17,7 @@ This project is built using a modern, fast, and scalable web stack:
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
 
-## ⚙️ Getting Started
+##  Getting Started
 
 To run this project locally on your machine, follow these steps:
 
@@ -50,7 +50,7 @@ Make sure you have Node.js and npm installed on your system.
 5. **Open in browser:**
    Open the localhost URL shown in your terminal (usually `http://localhost:5173/` or `http://localhost:8080/`) to view the application.
 
-## 📦 Deployment
+##  Deployment
 
 This project is optimized for deployment on Vercel. 
 Simply import the GitHub repository into your Vercel dashboard, and the build settings (`npm run build` with output directory `dist`) will be automatically configured.
