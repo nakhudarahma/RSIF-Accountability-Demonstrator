@@ -1,6 +1,8 @@
 # RSIF Accountability Demonstrator
 
-The RSIF Accountability Demonstrator is a conceptual academic prototype designed to show how AI accountability can be structured as a lifecycle-oriented governance process within startup ecosystems. An interactive **AI Accountability Framework** demonstrator built to showcase professional AI-focused portfolios and data visualizations. This application provides a high-performance, dynamic interface for exploring accountability metrics and frameworks within AI systems.
+The RSIF Accountability Demonstrator is a conceptual academic prototype that models AI accountability as a lifecycle-oriented governance process within startup ecosystems.
+
+It provides an interactive AI Accountability Framework for exploring accountability metrics, governance structures, and transparency mechanisms in AI systems. The application features a high-performance, dynamic interface designed for professional AI portfolios and data-driven visualization.
 
 ## 🚀 Live Demo
 
